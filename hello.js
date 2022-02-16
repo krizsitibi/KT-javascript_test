@@ -2,4 +2,4 @@ function hello(){
     return "Szia";
 
 }
-modul.exports=hello;
+module.exports=hello;

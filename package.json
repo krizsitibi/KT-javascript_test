@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "node hello.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krizsitibi/KT-javascript_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krizsitibi/KT-javascript_test/issues"
+  },
+  "homepage": "https://github.com/krizsitibi/KT-javascript_test#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
